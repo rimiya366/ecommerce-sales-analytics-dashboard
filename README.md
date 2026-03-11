@@ -17,7 +17,7 @@ This project analyzes e-commerce transaction data to identify revenue trends, cu
 • Delivery time analysis
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Key Insights
 - Revenue shows steady growth over time.
